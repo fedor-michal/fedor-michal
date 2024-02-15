@@ -1,4 +1,4 @@
-# <p align="center">👋Hello my name is Michael</p>
+# <p align="center">Hello my name is Michael</p>
 <br>
 <br>
 <br>
